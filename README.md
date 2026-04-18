@@ -76,7 +76,9 @@ Once you run this, a local web interface will open where you can upload images a
 **Output:** *"A dog running on grass in a sunny park"*
 
 ---
+# 🖼️ Image Caption Generator using BLIP
 
+![Screenshot](sample.png)
 ## 💡 What I learned
 
 * How to use pre-trained models from Hugging Face
